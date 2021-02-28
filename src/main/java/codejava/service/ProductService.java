@@ -1,5 +1,7 @@
-package codejava;
+package codejava.service;
 
+import codejava.model.Product;
+import codejava.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
